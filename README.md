@@ -1,2 +1,2 @@
 # Proyecto7
-(Proy5 &amp; Proy6 Tripleten)
+Esta es un prueba de manejo de Git, GitHUb y Render con scrip de phyton
