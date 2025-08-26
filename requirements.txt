@@ -1,3 +1,4 @@
+aext-assistant @ file:///C:/b/abs_1bfn_ondsd/croot/aext-assistant_1746560154452/work
 aext-assistant-server @ file:///C:/b/abs_6f6umrladb/croot/aext-assistant-server_1746552992573/work
 aext-core @ file:///C:/b/abs_a0497039ax/croot/aext-core_1746546102863/work
 aext-core-server @ file:///C:/b/abs_82tjab_7w4/croot/aext-core-server_1746542360244/work
@@ -31,6 +32,7 @@ archspec @ file:///croot/archspec_1709217642129/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/b/abs_f11axiliot/croot/argon2-cffi-bindings_1736182463870/work
 arrow @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/arrow_1731716484111/work
+astor==0.8.1
 astroid @ file:///C:/Users/dev-admin/buildout/croot/astroid_1739560229763/work
 astropy @ file:///C:/b/abs_a6ryor8rkd/croot/astropy_1738094426721/work
 astropy-iers-data @ file:///C:/b/abs_fact33de2d/croot/astropy-iers-data_1737137602781/work
@@ -42,6 +44,7 @@ attrs @ file:///C:/b/abs_89hmquz5ga/croot/attrs_1734533130810/work
 Automat @ file:///C:/b/abs_e6j20ekmp5/croot/automat_1743532580167/work
 autopep8 @ file:///croot/autopep8_1708962882016/work
 babel @ file:///C:/b/abs_ffzt1bmjth/croot/babel_1737454394148/work
+base58==2.1.1
 bcrypt @ file:///C:/b/abs_b3ok3jhxrx/croot/bcrypt_1747402791004/work
 beautifulsoup4 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/beautifulsoup4-split_1729039630198/work
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
@@ -59,7 +62,7 @@ cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
 cfgv==3.4.0
 chardet @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/chardet_1729058437735/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-click @ file:///C:/b/abs_42rbjngfys/croot/click_1744271606983/work
+click==7.1.2
 cloudpickle @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/cloudpickle_1729043776794/work
 colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
 colorcet @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorcet_1729053366498/work
@@ -218,7 +221,7 @@ numpydoc @ file:///C:/Users/dev-admin/buildout/croot/numpydoc_1732930470179/work
 openpyxl @ file:///C:/b/abs_6cdczthntz/croot/openpyxl_1736371239628/work
 overrides @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/overrides_1729041221570/work
 packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
-pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp313-cp313-win_amd64.whl#sha256=89153934c68f42239148879a6c0fd8bb5004e767550db26257dc4551ad0414d7
+pandas==2.3.0
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 panel @ file:///C:/b/abs_94csf26rqz/croot/panel_1747424488019/work
 param @ file:///C:/Users/dev-admin/buildout/croot/param_1739560661012/work
@@ -261,6 +264,7 @@ pycurl @ file:///C:/b/abs_60b5cviggn/croot/pycurl_1744743621149/work
 pydantic @ file:///C:/b/abs_d1rp6fqxgk/croot/pydantic_1750768285689/work
 pydantic-settings @ file:///C:/Users/dev-admin/buildout/croot/pydantic-settings_1735846821890/work
 pydantic_core @ file:///C:/b/abs_d0xs0z3erk/croot/pydantic-core_1750754747982/work
+pydeck==0.9.1
 PyDispatcher @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydispatcher_1729062105269/work
 pydocstyle @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydocstyle_1729055775306/work
 pyerfa @ file:///C:/b/abs_35x4fn08_4/croot/pyerfa_1738083087918/work
@@ -322,7 +326,7 @@ ruamel_yaml_conda @ file:///C:/Users/dev-admin/perseverance-python-buildout/croo
 s3fs @ file:///C:/b/abs_130adxrjmm/croot/s3fs_1747146760526/work
 scikit-image @ file:///C:/b/abs_081xgoymhl/croot/scikit-image_1737473383970/work
 scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp313-cp313-win_amd64.whl#sha256=3e52b503bae0e72bc233231ad5d730537e192e1214e0ac766be348eb9dfb7cfd
-scipy @ file:///C:/b/abs_71q96u23a4/croot/scipy_1747238057723/work/dist/scipy-1.15.3-cp313-cp313-win_amd64.whl#sha256=b5f3085bbab24a89daa9159000ae3a3fa1590d993aa2bf0d27f4db68d724271c
+scipy==1.16.1
 Scrapy @ file:///C:/b/abs_7d5vqiajdd/croot/scrapy_1743540914951/work
 seaborn @ file:///C:/b/abs_0bv5x0ucxb/croot/seaborn_1749110315600/work
 semver @ file:///C:/b/abs_6bgol0at6h/croot/semver_1736542515243/work
@@ -351,7 +355,7 @@ spyder-kernels @ file:///C:/b/abs_0a8wbrmvxw/croot/spyder-kernels_1748642523170/
 SQLAlchemy @ file:///C:/b/abs_275ybuj8n_/croot/sqlalchemy_1745854539419/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_c797jbabmm/croot/statsmodels_1734018887218/work
-streamlit @ file:///C:/b/abs_a5vo_b5ysk/croot/streamlit-split_1748963606986/work/streamlit
+streamlit==1.1.0
 superqt @ file:///C:/b/abs_11kt812ym3/croot/superqt_1743709210824/work
 sympy @ file:///C:/b/abs_b4u17p23yg/croot/sympy_1738108511395/work
 tables @ file:///C:/b/abs_e0h8gc4hz7/croot/pytables_1748452085563/work
@@ -380,10 +384,12 @@ typer @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/typer_1729
 typing-inspection @ file:///C:/b/abs_261c5jt6kx/croot/typing-inspection_1746023491500/work
 typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
 tzdata @ file:///croot/python-tzdata_1746123641790/work
+tzlocal==5.3.1
 uc-micro-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/uc-micro-py_1729047163092/work
 ujson @ file:///C:/b/abs_e5a_v6aejl/croot/ujson_1736543954444/work
 Unidecode @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/unidecode_1729103602327/work
 urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
+validators==0.35.0
 virtualenv==20.34.0
 w3lib @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/w3lib_1729052333042/work
 watchdog @ file:///C:/b/abs_29_7vso69r/croot/watchdog_1740409940307/work
