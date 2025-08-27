@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Editor de Spyder
+Created on Tue Aug 26 19:21:58 2025
 
-Este es un archivo temporal.
+@author: Personal
 """
 
 import streamlit as st
